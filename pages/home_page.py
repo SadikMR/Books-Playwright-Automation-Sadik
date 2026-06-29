@@ -5,6 +5,8 @@ from utils.constants import BASE_URL
 from utils.selectors import HomeSelectors
 from utils.helper import choose_random
 
+from urllib.parse import urljoin
+
 class HomePage(BasePage):
 
     def open(self):
@@ -93,3 +95,32 @@ class HomePage(BasePage):
         )
 
         return selected
+    
+    def links(self):
+        return self.locator("a")
+
+
+    def get_all_links(self):
+        self.logger.info("Collecting hyperlinks...")
+
+        urls = set()
+
+        for link in self.links().all():
+            href = link.get_attribute("href")
+
+            if not href:
+                continue
+
+            if href.startswith("#"):
+                continue
+
+            if href.startswith("javascript:"):
+                continue
+
+            urls.add(urljoin(self.page.url, href))
+
+        self.logger.info(
+            f"✓ Collected {len(urls)} unique hyperlink(s)."
+        )
+
+        return sorted(urls)
