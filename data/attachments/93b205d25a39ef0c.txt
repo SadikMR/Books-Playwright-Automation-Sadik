@@ -1,0 +1,118 @@
+INFO     HomePage:base_page.py:15 Opening: https://books.toscrape.com/
+INFO     HomePage:home_page.py:101 Selecting random categories...
+INFO     HomePage:home_page.py:107 Selected 5 random categor(ies).
+INFO     HomePage:home_page.py:94 Opening category: Humor
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: When You Are Engulfed in Flames
+INFO     BookPage:book_page.py:22 Verifying book details page: When You Are Engulfed in Flames
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Old School (Diary of a Wimpy Kid #10)
+INFO     BookPage:book_page.py:22 Verifying book details page: Old School (Diary of a Wimpy Kid #10)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Naked
+INFO     BookPage:book_page.py:22 Verifying book details page: Naked
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Holidays on Ice
+INFO     BookPage:book_page.py:22 Verifying book details page: Holidays on Ice
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+INFO     BookPage:book_page.py:22 Verifying book details page: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Paranormal
+INFO     CategoryPage:category_page.py:11 Verifying category: Paranormal
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Vampire Knight, Vol. 1 (Vampire Knight #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: Vampire Knight, Vol. 1 (Vampire Knight #1)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Paranormal
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Health
+INFO     CategoryPage:category_page.py:11 Verifying category: Health
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 4 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+INFO     BookPage:book_page.py:22 Verifying book details page: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Health
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Art and Science of Low Carbohydrate Living
+INFO     BookPage:book_page.py:22 Verifying book details page: The Art and Science of Low Carbohydrate Living
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Health
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+INFO     BookPage:book_page.py:22 Verifying book details page: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Health
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Eat Fat, Get Thin
+INFO     BookPage:book_page.py:22 Verifying book details page: Eat Fat, Get Thin
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Health
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Sequential Art
+INFO     CategoryPage:category_page.py:11 Verifying category: Sequential Art
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Sequential Art
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Codename Baboushka, Volume 1: The Conclave of Death
+INFO     BookPage:book_page.py:22 Verifying book details page: Codename Baboushka, Volume 1: The Conclave of Death
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Sequential Art
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Giant Days, Vol. 2 (Giant Days #5-8)
+INFO     BookPage:book_page.py:22 Verifying book details page: Giant Days, Vol. 2 (Giant Days #5-8)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Sequential Art
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)
+INFO     BookPage:book_page.py:22 Verifying book details page: Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Sequential Art
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Patience
+INFO     BookPage:book_page.py:22 Verifying book details page: Patience
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Sequential Art
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Crime
+INFO     CategoryPage:category_page.py:11 Verifying category: Crime
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+INFO     BookPage:book_page.py:22 Verifying book details page: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Crime
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
