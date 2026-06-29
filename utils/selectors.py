@@ -33,17 +33,8 @@ class CategorySelectors:
 
 
 class BookSelectors:
-    # CSS Selector
     TITLE = ".product_main h1"
-
-    # CSS Selector
-    PRICE = ".price_color"
-
-    # Text Selector
-    AVAILABILITY = "text=In stock"
-
-    # CSS Selector
+    PRICE = ".product_main .price_color"
+    AVAILABILITY = ".product_main .availability"
     IMAGE = ".item.active img"
-
-    # CSS Selector
     DESCRIPTION = "#product_description + p"

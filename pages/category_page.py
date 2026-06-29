@@ -21,24 +21,34 @@ class CategoryPage(BasePage):
     def books(self):
         return self.locator(CategorySelectors.BOOKS)
     
+
     def random_books(self, count=5):
         self.logger.info("Selecting random books...")
 
-        books = self.books().all()
+        total = self.books().count()
 
-        selected = choose_random(books, count)
+        indices = choose_random(list(range(total)), count)
 
         self.logger.info(
-            f"Selected {len(selected)} random book(s)."
+            f"Selected {len(indices)} random book(s)."
         )
 
-        return selected
+        return indices
     
-    def open_book(self, book):
+    def open_book(self, index):
+
+        book = self.books().nth(index)
+
         title = book.locator("h3 a").get_attribute("title")
+        price = book.locator(".price_color").inner_text().strip()
 
         self.logger.info(f"Opening book: {title}")
 
         book.locator("h3 a").click()
 
-        return title
+        self.page.wait_for_load_state("domcontentloaded")
+
+        return {
+            "title": title,
+            "price": price,
+        }
