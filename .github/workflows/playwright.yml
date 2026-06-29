@@ -5,8 +5,11 @@ on:
     branches:
       - main
       - master
-      - page-testing
+      - workflow-test
   pull_request:
+
+permissions:
+  contents: write
 
 jobs:
   test:
@@ -48,6 +51,7 @@ jobs:
             --alluredir=allure-results
 
       - name: Generate Allure Report
+        if: always()
         run: |
           allure generate allure-results --clean -o allure-report
 
@@ -82,3 +86,24 @@ jobs:
           name: playwright-artifacts
           path: test-results
           if-no-files-found: ignore
+
+  deploy-allure-report:
+    needs: test
+    if: always() && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download Allure Report Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: allure-report
+          path: allure-report
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-report
