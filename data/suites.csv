@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1727","test_product_images","tests","2026-06-29","passed","2026-06-29","","test_product_images","",""
+"","505","test_homepage","tests","2026-06-29","passed","2026-06-29","","test_homepage","",""
+"","4691","test_book_consistency","tests","2026-06-29","passed","2026-06-29","","test_book_consistency","",""
+"","9714","test_book_details","tests","2026-06-29","failed","2026-06-29","","test_book_details","",""
+"","3069","test_broken_links","tests","2026-06-29","passed","2026-06-29","","test_broken_links","",""

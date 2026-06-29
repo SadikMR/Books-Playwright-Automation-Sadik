@@ -1,0 +1,143 @@
+INFO     HomePage:base_page.py:15 Opening: https://books.toscrape.com/
+INFO     HomePage:home_page.py:101 Selecting random categories...
+INFO     HomePage:home_page.py:107 Selected 5 random categor(ies).
+INFO     HomePage:home_page.py:94 Opening category: Childrens
+INFO     CategoryPage:category_page.py:11 Verifying category: Childrens
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: The Day the Crayons Came Home (Crayons)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Day the Crayons Came Home (Crayons)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Childrens
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Bear and the Piano
+INFO     BookPage:book_page.py:22 Verifying book details page: The Bear and the Piano
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Childrens
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Thing About Jellyfish
+INFO     BookPage:book_page.py:22 Verifying book details page: The Thing About Jellyfish
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Childrens
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Wild Robot
+INFO     BookPage:book_page.py:22 Verifying book details page: The Wild Robot
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Childrens
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+INFO     BookPage:book_page.py:22 Verifying book details page: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Childrens
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Travel
+INFO     CategoryPage:category_page.py:11 Verifying category: Travel
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Neither Here nor There: Travels in Europe
+INFO     BookPage:book_page.py:22 Verifying book details page: Neither Here nor There: Travels in Europe
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Travel
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: 1,000 Places to See Before You Die
+INFO     BookPage:book_page.py:22 Verifying book details page: 1,000 Places to See Before You Die
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Travel
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Under the Tuscan Sun
+INFO     BookPage:book_page.py:22 Verifying book details page: Under the Tuscan Sun
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Travel
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Travel
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Great Railway Bazaar
+INFO     BookPage:book_page.py:22 Verifying book details page: The Great Railway Bazaar
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Travel
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Womens Fiction
+INFO     CategoryPage:category_page.py:11 Verifying category: Womens Fiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Will You Won't You Want Me?
+INFO     BookPage:book_page.py:22 Verifying book details page: Will You Won't You Want Me?
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Womens Fiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Twenties Girl
+INFO     BookPage:book_page.py:22 Verifying book details page: Twenties Girl
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Womens Fiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Grey (Fifty Shades #4)
+INFO     BookPage:book_page.py:22 Verifying book details page: Grey (Fifty Shades #4)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Womens Fiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Meternity
+INFO     BookPage:book_page.py:22 Verifying book details page: Meternity
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Womens Fiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Undomestic Goddess
+INFO     BookPage:book_page.py:22 Verifying book details page: The Undomestic Goddess
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Womens Fiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Biography
+INFO     CategoryPage:category_page.py:11 Verifying category: Biography
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+INFO     BookPage:book_page.py:22 Verifying book details page: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Biography
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+INFO     BookPage:book_page.py:22 Verifying book details page: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Biography
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Benjamin Franklin: An American Life
+INFO     BookPage:book_page.py:22 Verifying book details page: Benjamin Franklin: An American Life
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Biography
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Biography
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Louisa: The Extraordinary Life of Mrs. Adams
+INFO     BookPage:book_page.py:22 Verifying book details page: Louisa: The Extraordinary Life of Mrs. Adams
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Biography
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Crime
+INFO     CategoryPage:category_page.py:11 Verifying category: Crime
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+INFO     BookPage:book_page.py:22 Verifying book details page: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Crime
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.

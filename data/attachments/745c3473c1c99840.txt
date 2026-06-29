@@ -1,0 +1,143 @@
+2026-06-29 12:29:12,442 | INFO | Opening: https://books.toscrape.com/
+2026-06-29 12:29:12,791 | INFO | Selecting random categories...
+2026-06-29 12:29:12,816 | INFO | Selected 5 random categor(ies).
+2026-06-29 12:29:12,822 | INFO | Opening category: Childrens
+2026-06-29 12:29:12,907 | INFO | Verifying category: Childrens
+2026-06-29 12:29:12,943 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:12,944 | INFO | Selecting random books...
+2026-06-29 12:29:12,955 | INFO | Selected 5 random book(s).
+2026-06-29 12:29:12,965 | INFO | Opening book: The Day the Crayons Came Home (Crayons)
+2026-06-29 12:29:13,069 | INFO | Verifying book details page: The Day the Crayons Came Home (Crayons)
+2026-06-29 12:29:13,085 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:13,126 | INFO | Verifying category: Childrens
+2026-06-29 12:29:13,140 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:13,147 | INFO | Opening book: The Bear and the Piano
+2026-06-29 12:29:13,247 | INFO | Verifying book details page: The Bear and the Piano
+2026-06-29 12:29:13,266 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:13,309 | INFO | Verifying category: Childrens
+2026-06-29 12:29:13,323 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:13,331 | INFO | Opening book: The Thing About Jellyfish
+2026-06-29 12:29:13,428 | INFO | Verifying book details page: The Thing About Jellyfish
+2026-06-29 12:29:13,441 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:13,481 | INFO | Verifying category: Childrens
+2026-06-29 12:29:13,494 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:13,501 | INFO | Opening book: The Wild Robot
+2026-06-29 12:29:13,597 | INFO | Verifying book details page: The Wild Robot
+2026-06-29 12:29:13,611 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:13,650 | INFO | Verifying category: Childrens
+2026-06-29 12:29:13,664 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:13,671 | INFO | Opening book: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+2026-06-29 12:29:13,760 | INFO | Verifying book details page: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+2026-06-29 12:29:13,774 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:13,813 | INFO | Verifying category: Childrens
+2026-06-29 12:29:13,828 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:13,861 | INFO | Verifying homepage is loaded...
+2026-06-29 12:29:13,877 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:29:13,880 | INFO | Opening category: Travel
+2026-06-29 12:29:13,965 | INFO | Verifying category: Travel
+2026-06-29 12:29:13,988 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:13,989 | INFO | Selecting random books...
+2026-06-29 12:29:14,010 | INFO | Selected 5 random book(s).
+2026-06-29 12:29:14,017 | INFO | Opening book: Neither Here nor There: Travels in Europe
+2026-06-29 12:29:14,113 | INFO | Verifying book details page: Neither Here nor There: Travels in Europe
+2026-06-29 12:29:14,125 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:14,156 | INFO | Verifying category: Travel
+2026-06-29 12:29:14,170 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:14,176 | INFO | Opening book: 1,000 Places to See Before You Die
+2026-06-29 12:29:14,258 | INFO | Verifying book details page: 1,000 Places to See Before You Die
+2026-06-29 12:29:14,271 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:14,304 | INFO | Verifying category: Travel
+2026-06-29 12:29:14,318 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:14,324 | INFO | Opening book: Under the Tuscan Sun
+2026-06-29 12:29:14,409 | INFO | Verifying book details page: Under the Tuscan Sun
+2026-06-29 12:29:14,422 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:14,459 | INFO | Verifying category: Travel
+2026-06-29 12:29:14,473 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:14,480 | INFO | Opening book: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+2026-06-29 12:29:14,581 | INFO | Verifying book details page: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+2026-06-29 12:29:14,596 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:14,630 | INFO | Verifying category: Travel
+2026-06-29 12:29:14,643 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:14,650 | INFO | Opening book: The Great Railway Bazaar
+2026-06-29 12:29:14,746 | INFO | Verifying book details page: The Great Railway Bazaar
+2026-06-29 12:29:14,759 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:14,795 | INFO | Verifying category: Travel
+2026-06-29 12:29:14,808 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:14,842 | INFO | Verifying homepage is loaded...
+2026-06-29 12:29:14,858 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:29:14,861 | INFO | Opening category: Womens Fiction
+2026-06-29 12:29:14,931 | INFO | Verifying category: Womens Fiction
+2026-06-29 12:29:14,967 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:14,967 | INFO | Selecting random books...
+2026-06-29 12:29:14,975 | INFO | Selected 5 random book(s).
+2026-06-29 12:29:14,987 | INFO | Opening book: Will You Won't You Want Me?
+2026-06-29 12:29:15,077 | INFO | Verifying book details page: Will You Won't You Want Me?
+2026-06-29 12:29:15,089 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:15,129 | INFO | Verifying category: Womens Fiction
+2026-06-29 12:29:15,143 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:15,151 | INFO | Opening book: Twenties Girl
+2026-06-29 12:29:15,245 | INFO | Verifying book details page: Twenties Girl
+2026-06-29 12:29:15,259 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:15,300 | INFO | Verifying category: Womens Fiction
+2026-06-29 12:29:15,312 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:15,320 | INFO | Opening book: Grey (Fifty Shades #4)
+2026-06-29 12:29:15,411 | INFO | Verifying book details page: Grey (Fifty Shades #4)
+2026-06-29 12:29:15,423 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:15,457 | INFO | Verifying category: Womens Fiction
+2026-06-29 12:29:15,473 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:15,480 | INFO | Opening book: Meternity
+2026-06-29 12:29:15,580 | INFO | Verifying book details page: Meternity
+2026-06-29 12:29:15,593 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:15,634 | INFO | Verifying category: Womens Fiction
+2026-06-29 12:29:15,647 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:15,655 | INFO | Opening book: The Undomestic Goddess
+2026-06-29 12:29:15,745 | INFO | Verifying book details page: The Undomestic Goddess
+2026-06-29 12:29:15,757 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:15,789 | INFO | Verifying category: Womens Fiction
+2026-06-29 12:29:15,805 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:15,840 | INFO | Verifying homepage is loaded...
+2026-06-29 12:29:15,856 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:29:15,859 | INFO | Opening category: Biography
+2026-06-29 12:29:15,931 | INFO | Verifying category: Biography
+2026-06-29 12:29:15,953 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:15,953 | INFO | Selecting random books...
+2026-06-29 12:29:15,956 | INFO | Selected 5 random book(s).
+2026-06-29 12:29:15,963 | INFO | Opening book: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+2026-06-29 12:29:16,061 | INFO | Verifying book details page: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+2026-06-29 12:29:16,074 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:16,110 | INFO | Verifying category: Biography
+2026-06-29 12:29:16,123 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:16,129 | INFO | Opening book: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+2026-06-29 12:29:16,227 | INFO | Verifying book details page: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+2026-06-29 12:29:16,244 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:16,280 | INFO | Verifying category: Biography
+2026-06-29 12:29:16,293 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:16,299 | INFO | Opening book: Benjamin Franklin: An American Life
+2026-06-29 12:29:16,397 | INFO | Verifying book details page: Benjamin Franklin: An American Life
+2026-06-29 12:29:16,412 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:16,443 | INFO | Verifying category: Biography
+2026-06-29 12:29:16,456 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:16,462 | INFO | Opening book: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+2026-06-29 12:29:16,561 | INFO | Verifying book details page: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+2026-06-29 12:29:16,574 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:16,609 | INFO | Verifying category: Biography
+2026-06-29 12:29:16,623 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:16,629 | INFO | Opening book: Louisa: The Extraordinary Life of Mrs. Adams
+2026-06-29 12:29:16,727 | INFO | Verifying book details page: Louisa: The Extraordinary Life of Mrs. Adams
+2026-06-29 12:29:16,740 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:16,767 | INFO | Verifying category: Biography
+2026-06-29 12:29:16,780 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:16,814 | INFO | Verifying homepage is loaded...
+2026-06-29 12:29:16,831 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:29:16,834 | INFO | Opening category: Crime
+2026-06-29 12:29:16,914 | INFO | Verifying category: Crime
+2026-06-29 12:29:16,930 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:16,931 | INFO | Selecting random books...
+2026-06-29 12:29:16,934 | INFO | Selected 1 random book(s).
+2026-06-29 12:29:16,939 | INFO | Opening book: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+2026-06-29 12:29:17,029 | INFO | Verifying book details page: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+2026-06-29 12:29:17,041 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:29:17,070 | INFO | Verifying category: Crime
+2026-06-29 12:29:17,082 | INFO | ✓ Category page loaded.
+2026-06-29 12:29:17,114 | INFO | Verifying homepage is loaded...
+2026-06-29 12:29:17,132 | INFO | ✓ Homepage loaded successfully.
