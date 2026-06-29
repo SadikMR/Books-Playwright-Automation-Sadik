@@ -1,0 +1,138 @@
+2026-06-29 12:31:09,766 | INFO | Opening: https://books.toscrape.com/
+2026-06-29 12:31:10,501 | INFO | Selecting random categories...
+2026-06-29 12:31:10,520 | INFO | Selected 5 random categor(ies).
+2026-06-29 12:31:10,524 | INFO | Opening category: Fantasy
+2026-06-29 12:31:10,637 | INFO | Verifying category: Fantasy
+2026-06-29 12:31:10,668 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:10,668 | INFO | Selecting random books...
+2026-06-29 12:31:10,673 | INFO | Selected 5 random book(s).
+2026-06-29 12:31:10,678 | INFO | Opening book: Crown of Midnight (Throne of Glass #2)
+2026-06-29 12:31:10,810 | INFO | Verifying book details page: Crown of Midnight (Throne of Glass #2)
+2026-06-29 12:31:10,821 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:10,853 | INFO | Verifying category: Fantasy
+2026-06-29 12:31:10,864 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:10,870 | INFO | Opening book: Princess Between Worlds (Wide-Awake Princess #5)
+2026-06-29 12:31:10,996 | INFO | Verifying book details page: Princess Between Worlds (Wide-Awake Princess #5)
+2026-06-29 12:31:11,008 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:11,036 | INFO | Verifying category: Fantasy
+2026-06-29 12:31:11,047 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:11,054 | INFO | Opening book: Unicorn Tracks
+2026-06-29 12:31:11,181 | INFO | Verifying book details page: Unicorn Tracks
+2026-06-29 12:31:11,191 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:11,218 | INFO | Verifying category: Fantasy
+2026-06-29 12:31:11,230 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:11,236 | INFO | Opening book: The Star-Touched Queen
+2026-06-29 12:31:11,365 | INFO | Verifying book details page: The Star-Touched Queen
+2026-06-29 12:31:11,376 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:11,402 | INFO | Verifying category: Fantasy
+2026-06-29 12:31:11,415 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:11,420 | INFO | Opening book: The Hidden Oracle (The Trials of Apollo #1)
+2026-06-29 12:31:11,547 | INFO | Verifying book details page: The Hidden Oracle (The Trials of Apollo #1)
+2026-06-29 12:31:11,559 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:11,587 | INFO | Verifying category: Fantasy
+2026-06-29 12:31:11,601 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:11,627 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:11,641 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:11,644 | INFO | Opening category: Parenting
+2026-06-29 12:31:11,750 | INFO | Verifying category: Parenting
+2026-06-29 12:31:11,765 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:11,765 | INFO | Selecting random books...
+2026-06-29 12:31:11,782 | INFO | Selected 1 random book(s).
+2026-06-29 12:31:11,786 | INFO | Opening book: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
+2026-06-29 12:31:11,895 | INFO | Verifying book details page: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
+2026-06-29 12:31:11,906 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:11,926 | INFO | Verifying category: Parenting
+2026-06-29 12:31:11,938 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:11,964 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:11,978 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:11,981 | INFO | Opening category: Health
+2026-06-29 12:31:12,104 | INFO | Verifying category: Health
+2026-06-29 12:31:12,120 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:12,120 | INFO | Selecting random books...
+2026-06-29 12:31:12,124 | INFO | Selected 4 random book(s).
+2026-06-29 12:31:12,129 | INFO | Opening book: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+2026-06-29 12:31:12,262 | INFO | Verifying book details page: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+2026-06-29 12:31:12,274 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:12,294 | INFO | Verifying category: Health
+2026-06-29 12:31:12,305 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:12,310 | INFO | Opening book: Eat Fat, Get Thin
+2026-06-29 12:31:12,428 | INFO | Verifying book details page: Eat Fat, Get Thin
+2026-06-29 12:31:12,438 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:12,462 | INFO | Verifying category: Health
+2026-06-29 12:31:12,471 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:12,476 | INFO | Opening book: The Art and Science of Low Carbohydrate Living
+2026-06-29 12:31:12,595 | INFO | Verifying book details page: The Art and Science of Low Carbohydrate Living
+2026-06-29 12:31:12,606 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:12,629 | INFO | Verifying category: Health
+2026-06-29 12:31:12,639 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:12,644 | INFO | Opening book: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+2026-06-29 12:31:12,764 | INFO | Verifying book details page: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+2026-06-29 12:31:12,774 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:12,796 | INFO | Verifying category: Health
+2026-06-29 12:31:12,809 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:12,833 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:12,846 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:12,850 | INFO | Opening category: Classics
+2026-06-29 12:31:12,969 | INFO | Verifying category: Classics
+2026-06-29 12:31:12,989 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:12,990 | INFO | Selecting random books...
+2026-06-29 12:31:12,992 | INFO | Selected 5 random book(s).
+2026-06-29 12:31:12,996 | INFO | Opening book: The Pilgrim's Progress
+2026-06-29 12:31:13,128 | INFO | Verifying book details page: The Pilgrim's Progress
+2026-06-29 12:31:13,139 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:13,167 | INFO | Verifying category: Classics
+2026-06-29 12:31:13,177 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:13,182 | INFO | Opening book: Of Mice and Men
+2026-06-29 12:31:13,325 | INFO | Verifying book details page: Of Mice and Men
+2026-06-29 12:31:13,335 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:13,364 | INFO | Verifying category: Classics
+2026-06-29 12:31:13,374 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:13,379 | INFO | Opening book: Little Women (Little Women #1)
+2026-06-29 12:31:13,513 | INFO | Verifying book details page: Little Women (Little Women #1)
+2026-06-29 12:31:13,523 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:13,549 | INFO | Verifying category: Classics
+2026-06-29 12:31:13,561 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:13,567 | INFO | Opening book: Beowulf
+2026-06-29 12:31:13,696 | INFO | Verifying book details page: Beowulf
+2026-06-29 12:31:13,706 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:13,735 | INFO | Verifying category: Classics
+2026-06-29 12:31:13,745 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:13,750 | INFO | Opening book: Wuthering Heights
+2026-06-29 12:31:13,880 | INFO | Verifying book details page: Wuthering Heights
+2026-06-29 12:31:13,890 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:13,919 | INFO | Verifying category: Classics
+2026-06-29 12:31:13,929 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:13,953 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:13,966 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:13,969 | INFO | Opening category: Autobiography
+2026-06-29 12:31:14,086 | INFO | Verifying category: Autobiography
+2026-06-29 12:31:14,103 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:14,103 | INFO | Selecting random books...
+2026-06-29 12:31:14,105 | INFO | Selected 5 random book(s).
+2026-06-29 12:31:14,109 | INFO | Opening book: Lab Girl
+2026-06-29 12:31:14,229 | INFO | Verifying book details page: Lab Girl
+2026-06-29 12:31:14,238 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:14,264 | INFO | Verifying category: Autobiography
+2026-06-29 12:31:14,274 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:14,278 | INFO | Opening book: Running with Scissors
+2026-06-29 12:31:14,414 | INFO | Verifying book details page: Running with Scissors
+2026-06-29 12:31:14,423 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:14,447 | INFO | Verifying category: Autobiography
+2026-06-29 12:31:14,458 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:14,463 | INFO | Opening book: A Heartbreaking Work of Staggering Genius
+2026-06-29 12:31:14,595 | INFO | Verifying book details page: A Heartbreaking Work of Staggering Genius
+2026-06-29 12:31:14,607 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:14,630 | INFO | Verifying category: Autobiography
+2026-06-29 12:31:14,640 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:14,645 | INFO | Opening book: Lust & Wonder
+2026-06-29 12:31:14,778 | INFO | Verifying book details page: Lust & Wonder
+2026-06-29 12:31:14,789 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:14,813 | INFO | Verifying category: Autobiography
+2026-06-29 12:31:14,823 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:14,828 | INFO | Opening book: M Train
+2026-06-29 12:31:14,962 | INFO | Verifying book details page: M Train
+2026-06-29 12:31:14,974 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:14,996 | INFO | Verifying category: Autobiography
+2026-06-29 12:31:15,007 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:15,033 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:15,046 | INFO | ✓ Homepage loaded successfully.

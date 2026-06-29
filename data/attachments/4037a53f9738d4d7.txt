@@ -1,180 +1,171 @@
 INFO     HomePage:base_page.py:15 Opening: https://books.toscrape.com/
 INFO     HomePage:home_page.py:101 Selecting random categories...
 INFO     HomePage:home_page.py:107 Selected 5 random categor(ies).
-INFO     HomePage:home_page.py:94 Opening category: Cultural
-INFO     CategoryPage:category_page.py:11 Verifying category: Cultural
+INFO     HomePage:home_page.py:94 Opening category: Erotica
+INFO     CategoryPage:category_page.py:11 Verifying category: Erotica
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Amid the Chaos
-INFO     BookPage:book_page.py:22 Verifying book details page: Amid the Chaos
+INFO     CategoryPage:category_page.py:45 Opening book: Dark Notes
+INFO     BookPage:book_page.py:22 Verifying book details page: Dark Notes
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Cultural
+INFO     CategoryPage:category_page.py:11 Verifying category: Erotica
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: Food and Drink
-INFO     CategoryPage:category_page.py:11 Verifying category: Food and Drink
+INFO     HomePage:home_page.py:94 Opening category: Poetry
+INFO     CategoryPage:category_page.py:11 Verifying category: Poetry
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
-INFO     BookPage:book_page.py:22 Verifying book details page: It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
+INFO     CategoryPage:category_page.py:45 Opening book: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Food and Drink
+INFO     CategoryPage:category_page.py:11 Verifying category: Poetry
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories
-INFO     BookPage:book_page.py:22 Verifying book details page: Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories
+INFO     CategoryPage:category_page.py:45 Opening book: Booked
+INFO     BookPage:book_page.py:22 Verifying book details page: Booked
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Food and Drink
+INFO     CategoryPage:category_page.py:11 Verifying category: Poetry
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
-INFO     BookPage:book_page.py:22 Verifying book details page: Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+INFO     CategoryPage:category_page.py:45 Opening book: Quarter Life Poetry: Poems for the Young, Broke and Hangry
+INFO     BookPage:book_page.py:22 Verifying book details page: Quarter Life Poetry: Poems for the Young, Broke and Hangry
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Food and Drink
+INFO     CategoryPage:category_page.py:11 Verifying category: Poetry
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First
-INFO     BookPage:book_page.py:22 Verifying book details page: The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First
+INFO     CategoryPage:category_page.py:45 Opening book: A Light in the Attic
+INFO     BookPage:book_page.py:22 Verifying book details page: A Light in the Attic
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Food and Drink
+INFO     CategoryPage:category_page.py:11 Verifying category: Poetry
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Barefoot Contessa Back to Basics
-INFO     BookPage:book_page.py:22 Verifying book details page: Barefoot Contessa Back to Basics
+INFO     CategoryPage:category_page.py:45 Opening book: Out of Print: City Lights Spotlight No. 14
+INFO     BookPage:book_page.py:22 Verifying book details page: Out of Print: City Lights Spotlight No. 14
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Food and Drink
+INFO     CategoryPage:category_page.py:11 Verifying category: Poetry
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: History
-INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     HomePage:home_page.py:94 Opening category: Christian
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
-INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Brilliant Beacons: A History of the American Lighthouse
-INFO     BookPage:book_page.py:22 Verifying book details page: Brilliant Beacons: A History of the American Lighthouse
+INFO     CategoryPage:category_page.py:32 Selected 3 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Crazy Love: Overwhelmed by a Relentless God
+INFO     BookPage:book_page.py:22 Verifying book details page: Crazy Love: Overwhelmed by a Relentless God
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Zealot: The Life and Times of Jesus of Nazareth
-INFO     BookPage:book_page.py:22 Verifying book details page: Zealot: The Life and Times of Jesus of Nazareth
+INFO     CategoryPage:category_page.py:45 Opening book: (Un)Qualified: How God Uses Broken People to Do Big Things
+INFO     BookPage:book_page.py:22 Verifying book details page: (Un)Qualified: How God Uses Broken People to Do Big Things
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Guns of August
-INFO     BookPage:book_page.py:22 Verifying book details page: The Guns of August
+INFO     CategoryPage:category_page.py:45 Opening book: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+INFO     BookPage:book_page.py:22 Verifying book details page: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: History
-INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Hiding Place
-INFO     BookPage:book_page.py:22 Verifying book details page: The Hiding Place
-INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
-INFO     BookPage:book_page.py:33 Verifying book information...
-INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: History
-INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: A Short History of Nearly Everything
-INFO     BookPage:book_page.py:22 Verifying book details page: A Short History of Nearly Everything
-INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
-INFO     BookPage:book_page.py:33 Verifying book information...
-INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: New Adult
-INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     HomePage:home_page.py:94 Opening category: Spirituality
+INFO     CategoryPage:category_page.py:11 Verifying category: Spirituality
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Off Sides (Off #1)
-INFO     BookPage:book_page.py:22 Verifying book details page: Off Sides (Off #1)
+INFO     CategoryPage:category_page.py:45 Opening book: The Four Agreements: A Practical Guide to Personal Freedom
+INFO     BookPage:book_page.py:22 Verifying book details page: The Four Agreements: A Practical Guide to Personal Freedom
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: Spirituality
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Without Borders (Wanderlove #1)
-INFO     BookPage:book_page.py:22 Verifying book details page: Without Borders (Wanderlove #1)
+INFO     CategoryPage:category_page.py:45 Opening book: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+INFO     BookPage:book_page.py:22 Verifying book details page: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: Spirituality
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Mistake (Off-Campus #2)
-INFO     BookPage:book_page.py:22 Verifying book details page: The Mistake (Off-Campus #2)
+INFO     CategoryPage:category_page.py:45 Opening book: A New Earth: Awakening to Your Life's Purpose
+INFO     BookPage:book_page.py:22 Verifying book details page: A New Earth: Awakening to Your Life's Purpose
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: Spirituality
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Hook Up (Game On #1)
-INFO     BookPage:book_page.py:22 Verifying book details page: The Hook Up (Game On #1)
+INFO     CategoryPage:category_page.py:45 Opening book: If I Gave You God's Phone Number....: Searching for Spirituality in America
+INFO     BookPage:book_page.py:22 Verifying book details page: If I Gave You God's Phone Number....: Searching for Spirituality in America
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: Spirituality
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Shameless
-INFO     BookPage:book_page.py:22 Verifying book details page: Shameless
+INFO     CategoryPage:category_page.py:45 Opening book: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
+INFO     BookPage:book_page.py:22 Verifying book details page: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: Spirituality
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: Default
-INFO     CategoryPage:category_page.py:11 Verifying category: Default
+INFO     HomePage:home_page.py:94 Opening category: Nonfiction
+INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Soul Reader
-INFO     BookPage:book_page.py:22 Verifying book details page: Soul Reader
+INFO     CategoryPage:category_page.py:45 Opening book: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+INFO     BookPage:book_page.py:22 Verifying book details page: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Default
+INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Girl on the Train
-INFO     BookPage:book_page.py:22 Verifying book details page: The Girl on the Train
+INFO     CategoryPage:category_page.py:45 Opening book: So You've Been Publicly Shamed
+INFO     BookPage:book_page.py:22 Verifying book details page: So You've Been Publicly Shamed
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Default
+INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
-INFO     BookPage:book_page.py:22 Verifying book details page: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
+INFO     CategoryPage:category_page.py:45 Opening book: The Genius of Birds
+INFO     BookPage:book_page.py:22 Verifying book details page: The Genius of Birds
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Default
+INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Emerald Mystery
-INFO     BookPage:book_page.py:22 Verifying book details page: The Emerald Mystery
+INFO     CategoryPage:category_page.py:45 Opening book: Algorithms to Live By: The Computer Science of Human Decisions
+INFO     BookPage:book_page.py:22 Verifying book details page: Algorithms to Live By: The Computer Science of Human Decisions
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Default
+INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.
-INFO     BookPage:book_page.py:22 Verifying book details page: The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.
+INFO     CategoryPage:category_page.py:45 Opening book: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+INFO     BookPage:book_page.py:22 Verifying book details page: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
+INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
+INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.

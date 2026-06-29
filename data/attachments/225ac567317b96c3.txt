@@ -1,0 +1,171 @@
+2026-06-29 12:31:15,084 | INFO | Opening: https://books.toscrape.com/
+2026-06-29 12:31:15,721 | INFO | Selecting random categories...
+2026-06-29 12:31:15,737 | INFO | Selected 5 random categor(ies).
+2026-06-29 12:31:15,740 | INFO | Opening category: Erotica
+2026-06-29 12:31:15,854 | INFO | Verifying category: Erotica
+2026-06-29 12:31:15,874 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:15,875 | INFO | Selecting random books...
+2026-06-29 12:31:15,877 | INFO | Selected 1 random book(s).
+2026-06-29 12:31:15,882 | INFO | Opening book: Dark Notes
+2026-06-29 12:31:15,999 | INFO | Verifying book details page: Dark Notes
+2026-06-29 12:31:16,010 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:16,016 | INFO | Verifying book information...
+2026-06-29 12:31:16,117 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:16,133 | INFO | Verifying category: Erotica
+2026-06-29 12:31:16,143 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:16,166 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:16,181 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:16,184 | INFO | Opening category: Poetry
+2026-06-29 12:31:16,303 | INFO | Verifying category: Poetry
+2026-06-29 12:31:16,324 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:16,324 | INFO | Selecting random books...
+2026-06-29 12:31:16,326 | INFO | Selected 5 random book(s).
+2026-06-29 12:31:16,330 | INFO | Opening book: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+2026-06-29 12:31:16,467 | INFO | Verifying book details page: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+2026-06-29 12:31:16,478 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:16,483 | INFO | Verifying book information...
+2026-06-29 12:31:16,584 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:16,605 | INFO | Verifying category: Poetry
+2026-06-29 12:31:16,617 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:16,622 | INFO | Opening book: Booked
+2026-06-29 12:31:16,745 | INFO | Verifying book details page: Booked
+2026-06-29 12:31:16,756 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:16,761 | INFO | Verifying book information...
+2026-06-29 12:31:16,857 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:16,881 | INFO | Verifying category: Poetry
+2026-06-29 12:31:16,892 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:16,896 | INFO | Opening book: Quarter Life Poetry: Poems for the Young, Broke and Hangry
+2026-06-29 12:31:17,029 | INFO | Verifying book details page: Quarter Life Poetry: Poems for the Young, Broke and Hangry
+2026-06-29 12:31:17,040 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:17,045 | INFO | Verifying book information...
+2026-06-29 12:31:17,141 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:17,164 | INFO | Verifying category: Poetry
+2026-06-29 12:31:17,175 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:17,180 | INFO | Opening book: A Light in the Attic
+2026-06-29 12:31:17,310 | INFO | Verifying book details page: A Light in the Attic
+2026-06-29 12:31:17,320 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:17,325 | INFO | Verifying book information...
+2026-06-29 12:31:17,413 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:17,434 | INFO | Verifying category: Poetry
+2026-06-29 12:31:17,447 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:17,453 | INFO | Opening book: Out of Print: City Lights Spotlight No. 14
+2026-06-29 12:31:17,580 | INFO | Verifying book details page: Out of Print: City Lights Spotlight No. 14
+2026-06-29 12:31:17,592 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:17,597 | INFO | Verifying book information...
+2026-06-29 12:31:17,698 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:17,719 | INFO | Verifying category: Poetry
+2026-06-29 12:31:17,731 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:17,754 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:17,767 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:17,770 | INFO | Opening category: Christian
+2026-06-29 12:31:17,886 | INFO | Verifying category: Christian
+2026-06-29 12:31:17,899 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:17,899 | INFO | Selecting random books...
+2026-06-29 12:31:17,901 | INFO | Selected 3 random book(s).
+2026-06-29 12:31:17,906 | INFO | Opening book: Crazy Love: Overwhelmed by a Relentless God
+2026-06-29 12:31:18,030 | INFO | Verifying book details page: Crazy Love: Overwhelmed by a Relentless God
+2026-06-29 12:31:18,040 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:18,045 | INFO | Verifying book information...
+2026-06-29 12:31:18,142 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:18,160 | INFO | Verifying category: Christian
+2026-06-29 12:31:18,171 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:18,175 | INFO | Opening book: (Un)Qualified: How God Uses Broken People to Do Big Things
+2026-06-29 12:31:18,295 | INFO | Verifying book details page: (Un)Qualified: How God Uses Broken People to Do Big Things
+2026-06-29 12:31:18,306 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:18,311 | INFO | Verifying book information...
+2026-06-29 12:31:18,408 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:18,426 | INFO | Verifying category: Christian
+2026-06-29 12:31:18,437 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:18,441 | INFO | Opening book: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+2026-06-29 12:31:18,563 | INFO | Verifying book details page: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+2026-06-29 12:31:18,574 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:18,579 | INFO | Verifying book information...
+2026-06-29 12:31:18,676 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:18,693 | INFO | Verifying category: Christian
+2026-06-29 12:31:18,705 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:18,731 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:18,744 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:18,746 | INFO | Opening category: Spirituality
+2026-06-29 12:31:18,871 | INFO | Verifying category: Spirituality
+2026-06-29 12:31:18,884 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:18,885 | INFO | Selecting random books...
+2026-06-29 12:31:18,887 | INFO | Selected 5 random book(s).
+2026-06-29 12:31:18,891 | INFO | Opening book: The Four Agreements: A Practical Guide to Personal Freedom
+2026-06-29 12:31:19,012 | INFO | Verifying book details page: The Four Agreements: A Practical Guide to Personal Freedom
+2026-06-29 12:31:19,023 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:19,028 | INFO | Verifying book information...
+2026-06-29 12:31:19,125 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:19,144 | INFO | Verifying category: Spirituality
+2026-06-29 12:31:19,155 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:19,160 | INFO | Opening book: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+2026-06-29 12:31:19,279 | INFO | Verifying book details page: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+2026-06-29 12:31:19,291 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:19,296 | INFO | Verifying book information...
+2026-06-29 12:31:19,393 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:19,411 | INFO | Verifying category: Spirituality
+2026-06-29 12:31:19,423 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:19,427 | INFO | Opening book: A New Earth: Awakening to Your Life's Purpose
+2026-06-29 12:31:19,544 | INFO | Verifying book details page: A New Earth: Awakening to Your Life's Purpose
+2026-06-29 12:31:19,555 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:19,560 | INFO | Verifying book information...
+2026-06-29 12:31:19,661 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:19,686 | INFO | Verifying category: Spirituality
+2026-06-29 12:31:19,704 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:19,708 | INFO | Opening book: If I Gave You God's Phone Number....: Searching for Spirituality in America
+2026-06-29 12:31:19,829 | INFO | Verifying book details page: If I Gave You God's Phone Number....: Searching for Spirituality in America
+2026-06-29 12:31:19,841 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:19,846 | INFO | Verifying book information...
+2026-06-29 12:31:19,950 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:19,968 | INFO | Verifying category: Spirituality
+2026-06-29 12:31:19,979 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:19,985 | INFO | Opening book: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
+2026-06-29 12:31:20,112 | INFO | Verifying book details page: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
+2026-06-29 12:31:20,124 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:20,129 | INFO | Verifying book information...
+2026-06-29 12:31:20,226 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:20,245 | INFO | Verifying category: Spirituality
+2026-06-29 12:31:20,258 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:20,284 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:20,297 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:31:20,300 | INFO | Opening category: Nonfiction
+2026-06-29 12:31:20,417 | INFO | Verifying category: Nonfiction
+2026-06-29 12:31:20,440 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:20,440 | INFO | Selecting random books...
+2026-06-29 12:31:20,442 | INFO | Selected 5 random book(s).
+2026-06-29 12:31:20,446 | INFO | Opening book: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+2026-06-29 12:31:20,579 | INFO | Verifying book details page: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+2026-06-29 12:31:20,590 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:20,595 | INFO | Verifying book information...
+2026-06-29 12:31:20,690 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:20,715 | INFO | Verifying category: Nonfiction
+2026-06-29 12:31:20,727 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:20,731 | INFO | Opening book: So You've Been Publicly Shamed
+2026-06-29 12:31:20,863 | INFO | Verifying book details page: So You've Been Publicly Shamed
+2026-06-29 12:31:20,873 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:20,878 | INFO | Verifying book information...
+2026-06-29 12:31:20,976 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:21,001 | INFO | Verifying category: Nonfiction
+2026-06-29 12:31:21,013 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:21,019 | INFO | Opening book: The Genius of Birds
+2026-06-29 12:31:21,146 | INFO | Verifying book details page: The Genius of Birds
+2026-06-29 12:31:21,156 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:21,164 | INFO | Verifying book information...
+2026-06-29 12:31:21,261 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:21,283 | INFO | Verifying category: Nonfiction
+2026-06-29 12:31:21,295 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:21,300 | INFO | Opening book: Algorithms to Live By: The Computer Science of Human Decisions
+2026-06-29 12:31:21,430 | INFO | Verifying book details page: Algorithms to Live By: The Computer Science of Human Decisions
+2026-06-29 12:31:21,441 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:21,446 | INFO | Verifying book information...
+2026-06-29 12:31:21,541 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:21,567 | INFO | Verifying category: Nonfiction
+2026-06-29 12:31:21,578 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:21,583 | INFO | Opening book: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+2026-06-29 12:31:21,712 | INFO | Verifying book details page: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+2026-06-29 12:31:21,722 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:31:21,727 | INFO | Verifying book information...
+2026-06-29 12:31:21,823 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 12:31:21,845 | INFO | Verifying category: Nonfiction
+2026-06-29 12:31:21,859 | INFO | ✓ Category page loaded.
+2026-06-29 12:31:21,884 | INFO | Verifying homepage is loaded...
+2026-06-29 12:31:21,896 | INFO | ✓ Homepage loaded successfully.
