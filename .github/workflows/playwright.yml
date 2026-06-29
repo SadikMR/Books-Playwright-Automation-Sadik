@@ -6,6 +6,7 @@ on:
       - main
       - master
       - page-testing
+      - workflow-test
   pull_request:
 
 permissions:
