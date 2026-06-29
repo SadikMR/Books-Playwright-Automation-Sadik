@@ -1,0 +1,7 @@
+BASE_URL = "https://books.toscrape.com/"
+
+DEFAULT_TIMEOUT = 10000
+
+BOOKS_PER_PAGE = 5
+
+RANDOM_CATEGORY_COUNT = 5

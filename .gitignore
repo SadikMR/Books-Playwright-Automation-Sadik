@@ -1,14 +1,24 @@
-venv/
+# Python
 __pycache__/
+*.py[cod]
 .pytest_cache/
 
-reports/
+# Virtual environment
+venv/
+
+# Playwright artifacts
+test-results/
+playwright-report/
 screenshots/
 videos/
 traces/
 
+# HTML report
+report.html
+
+# Allure
 allure-results/
 allure-report/
 
-*.pyc
+# Logs
 *.log
