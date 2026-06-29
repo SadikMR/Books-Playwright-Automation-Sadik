@@ -1,0 +1,113 @@
+2026-06-29 12:59:56,740 | INFO | Opening: https://books.toscrape.com/
+2026-06-29 12:59:57,475 | INFO | Selecting random categories...
+2026-06-29 12:59:57,492 | INFO | Selected 5 random categor(ies).
+2026-06-29 12:59:57,496 | INFO | Opening category: Business
+2026-06-29 12:59:57,602 | INFO | Verifying category: Business
+2026-06-29 12:59:57,623 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:57,623 | INFO | Selecting random books...
+2026-06-29 12:59:57,627 | INFO | Selected 5 random book(s).
+2026-06-29 12:59:57,631 | INFO | Opening book: Shoe Dog: A Memoir by the Creator of NIKE
+2026-06-29 12:59:57,739 | INFO | Verifying book details page: Shoe Dog: A Memoir by the Creator of NIKE
+2026-06-29 12:59:57,748 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:57,771 | INFO | Verifying category: Business
+2026-06-29 12:59:57,780 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:57,784 | INFO | Opening book: Born for This: How to Find the Work You Were Meant to Do
+2026-06-29 12:59:57,888 | INFO | Verifying book details page: Born for This: How to Find the Work You Were Meant to Do
+2026-06-29 12:59:57,898 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:57,920 | INFO | Verifying category: Business
+2026-06-29 12:59:57,929 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:57,933 | INFO | Opening book: Rework
+2026-06-29 12:59:58,041 | INFO | Verifying book details page: Rework
+2026-06-29 12:59:58,049 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:58,071 | INFO | Verifying category: Business
+2026-06-29 12:59:58,079 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,083 | INFO | Opening book: The Dirty Little Secrets of Getting Your Dream Job
+2026-06-29 12:59:58,188 | INFO | Verifying book details page: The Dirty Little Secrets of Getting Your Dream Job
+2026-06-29 12:59:58,197 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:58,218 | INFO | Verifying category: Business
+2026-06-29 12:59:58,227 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,232 | INFO | Opening book: Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two
+2026-06-29 12:59:58,338 | INFO | Verifying book details page: Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two
+2026-06-29 12:59:58,347 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:58,369 | INFO | Verifying category: Business
+2026-06-29 12:59:58,379 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,400 | INFO | Verifying homepage is loaded...
+2026-06-29 12:59:58,412 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:59:58,414 | INFO | Opening category: Contemporary
+2026-06-29 12:59:58,515 | INFO | Verifying category: Contemporary
+2026-06-29 12:59:58,528 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,528 | INFO | Selecting random books...
+2026-06-29 12:59:58,544 | INFO | Selected 3 random book(s).
+2026-06-29 12:59:58,548 | INFO | Opening book: Someone Like You (The Harrisons #2)
+2026-06-29 12:59:58,637 | INFO | Verifying book details page: Someone Like You (The Harrisons #2)
+2026-06-29 12:59:58,646 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:58,665 | INFO | Verifying category: Contemporary
+2026-06-29 12:59:58,673 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,677 | INFO | Opening book: When We Collided
+2026-06-29 12:59:58,787 | INFO | Verifying book details page: When We Collided
+2026-06-29 12:59:58,797 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:58,816 | INFO | Verifying category: Contemporary
+2026-06-29 12:59:58,825 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,829 | INFO | Opening book: We Are All Completely Beside Ourselves
+2026-06-29 12:59:58,938 | INFO | Verifying book details page: We Are All Completely Beside Ourselves
+2026-06-29 12:59:58,947 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:58,967 | INFO | Verifying category: Contemporary
+2026-06-29 12:59:58,975 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:58,993 | INFO | Verifying homepage is loaded...
+2026-06-29 12:59:59,006 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:59:59,008 | INFO | Opening category: Novels
+2026-06-29 12:59:59,113 | INFO | Verifying category: Novels
+2026-06-29 12:59:59,123 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:59,124 | INFO | Selecting random books...
+2026-06-29 12:59:59,127 | INFO | Selected 1 random book(s).
+2026-06-29 12:59:59,130 | INFO | Opening book: Suzie Snowflake: One beautiful flake (a self-esteem story)
+2026-06-29 12:59:59,237 | INFO | Verifying book details page: Suzie Snowflake: One beautiful flake (a self-esteem story)
+2026-06-29 12:59:59,246 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:59,263 | INFO | Verifying category: Novels
+2026-06-29 12:59:59,270 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:59,289 | INFO | Verifying homepage is loaded...
+2026-06-29 12:59:59,300 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 12:59:59,302 | INFO | Opening category: Classics
+2026-06-29 12:59:59,397 | INFO | Verifying category: Classics
+2026-06-29 12:59:59,415 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:59,416 | INFO | Selecting random books...
+2026-06-29 12:59:59,418 | INFO | Selected 5 random book(s).
+2026-06-29 12:59:59,421 | INFO | Opening book: The Metamorphosis
+2026-06-29 12:59:59,538 | INFO | Verifying book details page: The Metamorphosis
+2026-06-29 12:59:59,547 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:59,570 | INFO | Verifying category: Classics
+2026-06-29 12:59:59,578 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:59,582 | INFO | Opening book: Wuthering Heights
+2026-06-29 12:59:59,687 | INFO | Verifying book details page: Wuthering Heights
+2026-06-29 12:59:59,696 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:59,722 | INFO | Verifying category: Classics
+2026-06-29 12:59:59,729 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:59,733 | INFO | Opening book: Alice in Wonderland (Alice's Adventures in Wonderland #1)
+2026-06-29 12:59:59,844 | INFO | Verifying book details page: Alice in Wonderland (Alice's Adventures in Wonderland #1)
+2026-06-29 12:59:59,851 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 12:59:59,872 | INFO | Verifying category: Classics
+2026-06-29 12:59:59,883 | INFO | ✓ Category page loaded.
+2026-06-29 12:59:59,887 | INFO | Opening book: And Then There Were None
+2026-06-29 13:00:00,003 | INFO | Verifying book details page: And Then There Were None
+2026-06-29 13:00:00,011 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:00,034 | INFO | Verifying category: Classics
+2026-06-29 13:00:00,043 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:00,047 | INFO | Opening book: Animal Farm
+2026-06-29 13:00:00,154 | INFO | Verifying book details page: Animal Farm
+2026-06-29 13:00:00,162 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:00,184 | INFO | Verifying category: Classics
+2026-06-29 13:00:00,194 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:00,213 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:00,223 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 13:00:00,225 | INFO | Opening category: Academic
+2026-06-29 13:00:00,330 | INFO | Verifying category: Academic
+2026-06-29 13:00:00,339 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:00,340 | INFO | Selecting random books...
+2026-06-29 13:00:00,342 | INFO | Selected 1 random book(s).
+2026-06-29 13:00:00,345 | INFO | Opening book: Logan Kade (Fallen Crest High #5.5)
+2026-06-29 13:00:00,454 | INFO | Verifying book details page: Logan Kade (Fallen Crest High #5.5)
+2026-06-29 13:00:00,463 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:00,480 | INFO | Verifying category: Academic
+2026-06-29 13:00:00,488 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:00,505 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:00,517 | INFO | ✓ Homepage loaded successfully.

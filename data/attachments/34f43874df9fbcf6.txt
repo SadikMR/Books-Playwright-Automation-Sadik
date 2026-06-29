@@ -6,36 +6,36 @@ INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
-INFO     BookPage:book_page.py:22 Verifying book details page: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+INFO     CategoryPage:category_page.py:45 Opening book: The Power of Now: A Guide to Spiritual Enlightenment
+INFO     BookPage:book_page.py:22 Verifying book details page: The Power of Now: A Guide to Spiritual Enlightenment
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
 INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
-INFO     BookPage:book_page.py:22 Verifying book details page: Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+INFO     CategoryPage:category_page.py:45 Opening book: The Artist's Way: A Spiritual Path to Higher Creativity
+INFO     BookPage:book_page.py:22 Verifying book details page: The Artist's Way: A Spiritual Path to Higher Creativity
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
 INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: So You've Been Publicly Shamed
-INFO     BookPage:book_page.py:22 Verifying book details page: So You've Been Publicly Shamed
+INFO     CategoryPage:category_page.py:45 Opening book: Reskilling America: Learning to Labor in the Twenty-First Century
+INFO     BookPage:book_page.py:22 Verifying book details page: Reskilling America: Learning to Labor in the Twenty-First Century
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
 INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
-INFO     BookPage:book_page.py:22 Verifying book details page: The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+INFO     CategoryPage:category_page.py:45 Opening book: The Genius of Birds
+INFO     BookPage:book_page.py:22 Verifying book details page: The Genius of Birds
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
 INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: In the Country We Love: My Family Divided
-INFO     BookPage:book_page.py:22 Verifying book details page: In the Country We Love: My Family Divided
+INFO     CategoryPage:category_page.py:45 Opening book: Algorithms to Live By: The Computer Science of Human Decisions
+INFO     BookPage:book_page.py:22 Verifying book details page: Algorithms to Live By: The Computer Science of Human Decisions
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
@@ -43,115 +43,129 @@ INFO     CategoryPage:category_page.py:11 Verifying category: Nonfiction
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: Psychology
-INFO     CategoryPage:category_page.py:11 Verifying category: Psychology
+INFO     HomePage:home_page.py:94 Opening category: Christian
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 3 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+INFO     BookPage:book_page.py:22 Verifying book details page: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     BookPage:book_page.py:33 Verifying book information...
+INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: (Un)Qualified: How God Uses Broken People to Do Big Things
+INFO     BookPage:book_page.py:22 Verifying book details page: (Un)Qualified: How God Uses Broken People to Do Big Things
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     BookPage:book_page.py:33 Verifying book information...
+INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Crazy Love: Overwhelmed by a Relentless God
+INFO     BookPage:book_page.py:22 Verifying book details page: Crazy Love: Overwhelmed by a Relentless God
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     BookPage:book_page.py:33 Verifying book information...
+INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
+INFO     CategoryPage:category_page.py:11 Verifying category: Christian
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Art
+INFO     CategoryPage:category_page.py:11 Verifying category: Art
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: The Lucifer Effect: Understanding How Good People Turn Evil
-INFO     BookPage:book_page.py:22 Verifying book details page: The Lucifer Effect: Understanding How Good People Turn Evil
+INFO     CategoryPage:category_page.py:45 Opening book: The Story of Art
+INFO     BookPage:book_page.py:22 Verifying book details page: The Story of Art
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Psychology
+INFO     CategoryPage:category_page.py:11 Verifying category: Art
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: 8 Keys to Mental Health Through Exercise
-INFO     BookPage:book_page.py:22 Verifying book details page: 8 Keys to Mental Health Through Exercise
+INFO     CategoryPage:category_page.py:45 Opening book: Feathers: Displays of Brilliant Plumage
+INFO     BookPage:book_page.py:22 Verifying book details page: Feathers: Displays of Brilliant Plumage
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Psychology
+INFO     CategoryPage:category_page.py:11 Verifying category: Art
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Civilization and Its Discontents
-INFO     BookPage:book_page.py:22 Verifying book details page: Civilization and Its Discontents
+INFO     CategoryPage:category_page.py:45 Opening book: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+INFO     BookPage:book_page.py:22 Verifying book details page: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Psychology
+INFO     CategoryPage:category_page.py:11 Verifying category: Art
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Thinking, Fast and Slow
-INFO     BookPage:book_page.py:22 Verifying book details page: Thinking, Fast and Slow
+INFO     CategoryPage:category_page.py:45 Opening book: Wall and Piece
+INFO     BookPage:book_page.py:22 Verifying book details page: Wall and Piece
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Psychology
+INFO     CategoryPage:category_page.py:11 Verifying category: Art
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: An Unquiet Mind: A Memoir of Moods and Madness
-INFO     BookPage:book_page.py:22 Verifying book details page: An Unquiet Mind: A Memoir of Moods and Madness
+INFO     CategoryPage:category_page.py:45 Opening book: The Art Book
+INFO     BookPage:book_page.py:22 Verifying book details page: The Art Book
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Psychology
+INFO     CategoryPage:category_page.py:11 Verifying category: Art
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: Erotica
-INFO     CategoryPage:category_page.py:11 Verifying category: Erotica
+INFO     HomePage:home_page.py:94 Opening category: Crime
+INFO     CategoryPage:category_page.py:11 Verifying category: Crime
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Dark Notes
-INFO     BookPage:book_page.py:22 Verifying book details page: Dark Notes
+INFO     CategoryPage:category_page.py:45 Opening book: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+INFO     BookPage:book_page.py:22 Verifying book details page: The Long Shadow of Small Ghosts: Murder and Memory in an American City
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Erotica
+INFO     CategoryPage:category_page.py:11 Verifying category: Crime
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: Romance
-INFO     CategoryPage:category_page.py:11 Verifying category: Romance
+INFO     HomePage:home_page.py:94 Opening category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     CategoryPage:category_page.py:26 Selecting random books...
 INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Sit, Stay, Love
-INFO     BookPage:book_page.py:22 Verifying book details page: Sit, Stay, Love
+INFO     CategoryPage:category_page.py:45 Opening book: The Matchmaker's Playbook (Wingmen Inc. #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Matchmaker's Playbook (Wingmen Inc. #1)
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Romance
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Something More Than This
-INFO     BookPage:book_page.py:22 Verifying book details page: Something More Than This
+INFO     CategoryPage:category_page.py:45 Opening book: The Hook Up (Game On #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Hook Up (Game On #1)
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Romance
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Off the Hook (Fishing for Trouble #1)
-INFO     BookPage:book_page.py:22 Verifying book details page: Off the Hook (Fishing for Trouble #1)
+INFO     CategoryPage:category_page.py:45 Opening book: Off Sides (Off #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: Off Sides (Off #1)
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Romance
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Suddenly in Love (Lake Haven #1)
-INFO     BookPage:book_page.py:22 Verifying book details page: Suddenly in Love (Lake Haven #1)
+INFO     CategoryPage:category_page.py:45 Opening book: The Mistake (Off-Campus #2)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Mistake (Off-Campus #2)
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Romance
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:45 Opening book: Dark Lover (Black Dagger Brotherhood #1)
-INFO     BookPage:book_page.py:22 Verifying book details page: Dark Lover (Black Dagger Brotherhood #1)
+INFO     CategoryPage:category_page.py:45 Opening book: Shameless
+INFO     BookPage:book_page.py:22 Verifying book details page: Shameless
 INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
 INFO     BookPage:book_page.py:33 Verifying book information...
 INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Romance
-INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
-INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
-INFO     HomePage:home_page.py:94 Opening category: Parenting
-INFO     CategoryPage:category_page.py:11 Verifying category: Parenting
-INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
-INFO     CategoryPage:category_page.py:26 Selecting random books...
-INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
-INFO     CategoryPage:category_page.py:45 Opening book: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
-INFO     BookPage:book_page.py:22 Verifying book details page: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
-INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
-INFO     BookPage:book_page.py:33 Verifying book information...
-INFO     BookPage:book_page.py:51 ✓ Price, availability, image, and description are visible.
-INFO     CategoryPage:category_page.py:11 Verifying category: Parenting
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
 INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
 INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
 INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.

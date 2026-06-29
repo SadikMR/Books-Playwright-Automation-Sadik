@@ -1,0 +1,171 @@
+2026-06-29 13:00:00,548 | INFO | Opening: https://books.toscrape.com/
+2026-06-29 13:00:01,168 | INFO | Selecting random categories...
+2026-06-29 13:00:01,181 | INFO | Selected 5 random categor(ies).
+2026-06-29 13:00:01,183 | INFO | Opening category: Nonfiction
+2026-06-29 13:00:01,292 | INFO | Verifying category: Nonfiction
+2026-06-29 13:00:01,314 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:01,314 | INFO | Selecting random books...
+2026-06-29 13:00:01,317 | INFO | Selected 5 random book(s).
+2026-06-29 13:00:01,320 | INFO | Opening book: The Power of Now: A Guide to Spiritual Enlightenment
+2026-06-29 13:00:01,455 | INFO | Verifying book details page: The Power of Now: A Guide to Spiritual Enlightenment
+2026-06-29 13:00:01,464 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:01,468 | INFO | Verifying book information...
+2026-06-29 13:00:01,565 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:01,586 | INFO | Verifying category: Nonfiction
+2026-06-29 13:00:01,595 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:01,599 | INFO | Opening book: The Artist's Way: A Spiritual Path to Higher Creativity
+2026-06-29 13:00:01,716 | INFO | Verifying book details page: The Artist's Way: A Spiritual Path to Higher Creativity
+2026-06-29 13:00:01,725 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:01,729 | INFO | Verifying book information...
+2026-06-29 13:00:01,819 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:01,839 | INFO | Verifying category: Nonfiction
+2026-06-29 13:00:01,848 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:01,852 | INFO | Opening book: Reskilling America: Learning to Labor in the Twenty-First Century
+2026-06-29 13:00:01,968 | INFO | Verifying book details page: Reskilling America: Learning to Labor in the Twenty-First Century
+2026-06-29 13:00:01,978 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:01,984 | INFO | Verifying book information...
+2026-06-29 13:00:02,075 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:02,093 | INFO | Verifying category: Nonfiction
+2026-06-29 13:00:02,102 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:02,106 | INFO | Opening book: The Genius of Birds
+2026-06-29 13:00:02,234 | INFO | Verifying book details page: The Genius of Birds
+2026-06-29 13:00:02,242 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:02,246 | INFO | Verifying book information...
+2026-06-29 13:00:02,337 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:02,358 | INFO | Verifying category: Nonfiction
+2026-06-29 13:00:02,367 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:02,371 | INFO | Opening book: Algorithms to Live By: The Computer Science of Human Decisions
+2026-06-29 13:00:02,499 | INFO | Verifying book details page: Algorithms to Live By: The Computer Science of Human Decisions
+2026-06-29 13:00:02,507 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:02,512 | INFO | Verifying book information...
+2026-06-29 13:00:02,604 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:02,622 | INFO | Verifying category: Nonfiction
+2026-06-29 13:00:02,632 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:02,653 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:02,664 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 13:00:02,665 | INFO | Opening category: Christian
+2026-06-29 13:00:02,774 | INFO | Verifying category: Christian
+2026-06-29 13:00:02,786 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:02,786 | INFO | Selecting random books...
+2026-06-29 13:00:02,788 | INFO | Selected 3 random book(s).
+2026-06-29 13:00:02,792 | INFO | Opening book: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+2026-06-29 13:00:02,916 | INFO | Verifying book details page: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+2026-06-29 13:00:02,924 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:02,928 | INFO | Verifying book information...
+2026-06-29 13:00:03,024 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:03,063 | INFO | Verifying category: Christian
+2026-06-29 13:00:03,072 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:03,077 | INFO | Opening book: (Un)Qualified: How God Uses Broken People to Do Big Things
+2026-06-29 13:00:03,199 | INFO | Verifying book details page: (Un)Qualified: How God Uses Broken People to Do Big Things
+2026-06-29 13:00:03,207 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:03,212 | INFO | Verifying book information...
+2026-06-29 13:00:03,302 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:03,316 | INFO | Verifying category: Christian
+2026-06-29 13:00:03,326 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:03,331 | INFO | Opening book: Crazy Love: Overwhelmed by a Relentless God
+2026-06-29 13:00:03,449 | INFO | Verifying book details page: Crazy Love: Overwhelmed by a Relentless God
+2026-06-29 13:00:03,457 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:03,462 | INFO | Verifying book information...
+2026-06-29 13:00:03,554 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:03,568 | INFO | Verifying category: Christian
+2026-06-29 13:00:03,578 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:03,601 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:03,612 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 13:00:03,614 | INFO | Opening category: Art
+2026-06-29 13:00:03,726 | INFO | Verifying category: Art
+2026-06-29 13:00:03,737 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:03,737 | INFO | Selecting random books...
+2026-06-29 13:00:03,740 | INFO | Selected 5 random book(s).
+2026-06-29 13:00:03,745 | INFO | Opening book: The Story of Art
+2026-06-29 13:00:03,867 | INFO | Verifying book details page: The Story of Art
+2026-06-29 13:00:03,876 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:03,880 | INFO | Verifying book information...
+2026-06-29 13:00:03,971 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:03,987 | INFO | Verifying category: Art
+2026-06-29 13:00:03,996 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:04,000 | INFO | Opening book: Feathers: Displays of Brilliant Plumage
+2026-06-29 13:00:04,116 | INFO | Verifying book details page: Feathers: Displays of Brilliant Plumage
+2026-06-29 13:00:04,125 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:04,129 | INFO | Verifying book information...
+2026-06-29 13:00:04,221 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:04,236 | INFO | Verifying category: Art
+2026-06-29 13:00:04,248 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:04,251 | INFO | Opening book: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+2026-06-29 13:00:04,367 | INFO | Verifying book details page: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+2026-06-29 13:00:04,376 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:04,380 | INFO | Verifying book information...
+2026-06-29 13:00:04,472 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:04,487 | INFO | Verifying category: Art
+2026-06-29 13:00:04,497 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:04,501 | INFO | Opening book: Wall and Piece
+2026-06-29 13:00:04,616 | INFO | Verifying book details page: Wall and Piece
+2026-06-29 13:00:04,625 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:04,629 | INFO | Verifying book information...
+2026-06-29 13:00:04,721 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:04,737 | INFO | Verifying category: Art
+2026-06-29 13:00:04,748 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:04,751 | INFO | Opening book: The Art Book
+2026-06-29 13:00:04,868 | INFO | Verifying book details page: The Art Book
+2026-06-29 13:00:04,877 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:04,881 | INFO | Verifying book information...
+2026-06-29 13:00:04,972 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:04,986 | INFO | Verifying category: Art
+2026-06-29 13:00:04,996 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:05,017 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:05,028 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 13:00:05,031 | INFO | Opening category: Crime
+2026-06-29 13:00:05,142 | INFO | Verifying category: Crime
+2026-06-29 13:00:05,153 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:05,153 | INFO | Selecting random books...
+2026-06-29 13:00:05,155 | INFO | Selected 1 random book(s).
+2026-06-29 13:00:05,159 | INFO | Opening book: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+2026-06-29 13:00:05,284 | INFO | Verifying book details page: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+2026-06-29 13:00:05,292 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:05,296 | INFO | Verifying book information...
+2026-06-29 13:00:05,387 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:05,401 | INFO | Verifying category: Crime
+2026-06-29 13:00:05,410 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:05,429 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:05,441 | INFO | ✓ Homepage loaded successfully.
+2026-06-29 13:00:05,443 | INFO | Opening category: New Adult
+2026-06-29 13:00:05,558 | INFO | Verifying category: New Adult
+2026-06-29 13:00:05,571 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:05,571 | INFO | Selecting random books...
+2026-06-29 13:00:05,573 | INFO | Selected 5 random book(s).
+2026-06-29 13:00:05,577 | INFO | Opening book: The Matchmaker's Playbook (Wingmen Inc. #1)
+2026-06-29 13:00:05,699 | INFO | Verifying book details page: The Matchmaker's Playbook (Wingmen Inc. #1)
+2026-06-29 13:00:05,707 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:05,711 | INFO | Verifying book information...
+2026-06-29 13:00:05,769 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:05,785 | INFO | Verifying category: New Adult
+2026-06-29 13:00:05,795 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:05,799 | INFO | Opening book: The Hook Up (Game On #1)
+2026-06-29 13:00:05,915 | INFO | Verifying book details page: The Hook Up (Game On #1)
+2026-06-29 13:00:05,923 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:05,927 | INFO | Verifying book information...
+2026-06-29 13:00:06,017 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:06,032 | INFO | Verifying category: New Adult
+2026-06-29 13:00:06,041 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:06,045 | INFO | Opening book: Off Sides (Off #1)
+2026-06-29 13:00:06,164 | INFO | Verifying book details page: Off Sides (Off #1)
+2026-06-29 13:00:06,172 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:06,176 | INFO | Verifying book information...
+2026-06-29 13:00:06,266 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:06,283 | INFO | Verifying category: New Adult
+2026-06-29 13:00:06,292 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:06,296 | INFO | Opening book: The Mistake (Off-Campus #2)
+2026-06-29 13:00:06,418 | INFO | Verifying book details page: The Mistake (Off-Campus #2)
+2026-06-29 13:00:06,428 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:06,432 | INFO | Verifying book information...
+2026-06-29 13:00:06,522 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:06,536 | INFO | Verifying category: New Adult
+2026-06-29 13:00:06,546 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:06,550 | INFO | Opening book: Shameless
+2026-06-29 13:00:06,665 | INFO | Verifying book details page: Shameless
+2026-06-29 13:00:06,673 | INFO | ✓ Details page loaded and H1 title matches the selected book.
+2026-06-29 13:00:06,677 | INFO | Verifying book information...
+2026-06-29 13:00:06,767 | INFO | ✓ Price, availability, image, and description are visible.
+2026-06-29 13:00:06,781 | INFO | Verifying category: New Adult
+2026-06-29 13:00:06,789 | INFO | ✓ Category page loaded.
+2026-06-29 13:00:06,807 | INFO | Verifying homepage is loaded...
+2026-06-29 13:00:06,818 | INFO | ✓ Homepage loaded successfully.
