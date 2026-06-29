@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - master
-      - workflow-test
+      - page-testing
   pull_request:
 
 permissions:
@@ -55,6 +55,14 @@ jobs:
         run: |
           allure generate allure-results --clean -o allure-report
 
+      - name: Organize Playwright Artifacts
+        if: always()
+        run: |
+          mkdir -p screenshots videos traces
+          find test-results -name "*.png" -exec cp {} screenshots/ \; 2>/dev/null || true
+          find test-results -name "*.webm" -exec cp {} videos/ \; 2>/dev/null || true
+          find test-results -name "*.zip" -exec cp {} traces/ \; 2>/dev/null || true
+
       - name: Upload HTML Report
         if: always()
         uses: actions/upload-artifact@v4
@@ -79,6 +87,30 @@ jobs:
           path: allure-report
           if-no-files-found: ignore
 
+      - name: Upload Screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots
+          path: screenshots
+          if-no-files-found: ignore
+
+      - name: Upload Videos
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos
+          path: videos
+          if-no-files-found: ignore
+
+      - name: Upload Traces
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: traces
+          path: traces
+          if-no-files-found: ignore
+
       - name: Upload Playwright Artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -101,6 +133,9 @@ jobs:
         with:
           name: allure-report
           path: allure-report
+
+      - name: Disable Jekyll Processing
+        run: touch allure-report/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
