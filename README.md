@@ -294,6 +294,20 @@ Serve the report locally.
 ```bash
 allure serve allure-results
 ```
+the latest Allure report is automatically generated through GitHub Actions and published using GitHub Pages after every successful deployment.
+
+**View the report here:**
+
+🔗 https://sadikmr.github.io/Books-Playwright-Automation-Sadik/
+
+The online report provides:
+
+- Test execution summary
+- Passed and failed test statistics
+- Test suite hierarchy
+- Execution timeline
+- Detailed failure information
+- Attachments (screenshots, videos, and traces when available)
 
 > **Note:** Generating the Allure HTML report locally requires Java and the Allure Command Line to be installed. Even without these tools installed locally, the GitHub Actions workflow can still generate and upload Allure artifacts.
 
