@@ -19,4 +19,8 @@ def test_random_categories(page):
 
         category.verify_category_loaded(name)
 
+        selected_books = category.random_books()
+
+        assert len(selected_books) == 5
+
         page.go_back()
