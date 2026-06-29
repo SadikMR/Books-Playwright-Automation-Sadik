@@ -1,0 +1,133 @@
+INFO     HomePage:base_page.py:15 Opening: https://books.toscrape.com/
+INFO     HomePage:home_page.py:101 Selecting random categories...
+INFO     HomePage:home_page.py:107 Selected 5 random categor(ies).
+INFO     HomePage:home_page.py:94 Opening category: New Adult
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Off Sides (Off #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: Off Sides (Off #1)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Mistake (Off-Campus #2)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Mistake (Off-Campus #2)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Shameless
+INFO     BookPage:book_page.py:22 Verifying book details page: Shameless
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Matchmaker's Playbook (Wingmen Inc. #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Matchmaker's Playbook (Wingmen Inc. #1)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Without Borders (Wanderlove #1)
+INFO     BookPage:book_page.py:22 Verifying book details page: Without Borders (Wanderlove #1)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: New Adult
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Humor
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Dress Your Family in Corduroy and Denim
+INFO     BookPage:book_page.py:22 Verifying book details page: Dress Your Family in Corduroy and Denim
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Lamb: The Gospel According to Biff, Christ's Childhood Pal
+INFO     BookPage:book_page.py:22 Verifying book details page: Lamb: The Gospel According to Biff, Christ's Childhood Pal
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Holidays on Ice
+INFO     BookPage:book_page.py:22 Verifying book details page: Holidays on Ice
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Long Haul (Diary of a Wimpy Kid #9)
+INFO     BookPage:book_page.py:22 Verifying book details page: The Long Haul (Diary of a Wimpy Kid #9)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Old School (Diary of a Wimpy Kid #10)
+INFO     BookPage:book_page.py:22 Verifying book details page: Old School (Diary of a Wimpy Kid #10)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Humor
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Suspense
+INFO     CategoryPage:category_page.py:11 Verifying category: Suspense
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 1 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Silence in the Dark (Logan Point #4)
+INFO     BookPage:book_page.py:22 Verifying book details page: Silence in the Dark (Logan Point #4)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Suspense
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: History
+INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 5 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: Sapiens: A Brief History of Humankind
+INFO     BookPage:book_page.py:22 Verifying book details page: Sapiens: A Brief History of Humankind
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Mathews Men: Seven Brothers and the War Against Hitler's U-boats
+INFO     BookPage:book_page.py:22 Verifying book details page: The Mathews Men: Seven Brothers and the War Against Hitler's U-boats
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: A Short History of Nearly Everything
+INFO     BookPage:book_page.py:22 Verifying book details page: A Short History of Nearly Everything
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: A Distant Mirror: The Calamitous 14th Century
+INFO     BookPage:book_page.py:22 Verifying book details page: A Distant Mirror: The Calamitous 14th Century
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+INFO     BookPage:book_page.py:22 Verifying book details page: The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: History
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
+INFO     HomePage:home_page.py:94 Opening category: Contemporary
+INFO     CategoryPage:category_page.py:11 Verifying category: Contemporary
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:26 Selecting random books...
+INFO     CategoryPage:category_page.py:32 Selected 3 random book(s).
+INFO     CategoryPage:category_page.py:45 Opening book: We Are All Completely Beside Ourselves
+INFO     BookPage:book_page.py:22 Verifying book details page: We Are All Completely Beside Ourselves
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Contemporary
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: Someone Like You (The Harrisons #2)
+INFO     BookPage:book_page.py:22 Verifying book details page: Someone Like You (The Harrisons #2)
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Contemporary
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     CategoryPage:category_page.py:45 Opening book: When We Collided
+INFO     BookPage:book_page.py:22 Verifying book details page: When We Collided
+INFO     BookPage:book_page.py:28 ✓ Details page loaded and H1 title matches the selected book.
+INFO     CategoryPage:category_page.py:11 Verifying category: Contemporary
+INFO     CategoryPage:category_page.py:19 ✓ Category page loaded.
+INFO     HomePage:home_page.py:26 Verifying homepage is loaded...
+INFO     HomePage:home_page.py:28 ✓ Homepage loaded successfully.
