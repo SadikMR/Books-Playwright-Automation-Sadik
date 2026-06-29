@@ -44,6 +44,16 @@ class HomePage(BasePage):
 
     def book_count(self):
         return self.count(HomeSelectors.BOOKS)
+    
+        
+    def images(self):
+        return self.locator(HomeSelectors.IMAGES)
+    
+    def next_button(self):
+        return self.locator(HomeSelectors.NEXT)
+    
+    def has_next_page(self):
+        return self.next_button().count() > 0
 
     def verify_all_headings(self):
         self.logger.info("Verifying all visible headings...")
@@ -69,6 +79,10 @@ class HomePage(BasePage):
         self.logger.info(
             f"✓ Books section is visible and contains {total_books} book(s)."
         )
+
+    def open_next_page(self):
+        self.logger.info("Opening next page...")
+        self.next_button().click()
 
     def open_first_book(self):
         self.logger.info("Opening first book...")
@@ -124,3 +138,30 @@ class HomePage(BasePage):
         )
 
         return sorted(urls)
+    
+    
+    def verify_product_images(self):
+
+        self.logger.info("Verifying product images...")
+
+        images = self.images()
+
+        total = images.count()
+
+        for index in range(total):
+
+            image = images.nth(index)
+
+            expect(image).to_be_visible()
+
+            src = image.get_attribute("src")
+            alt = image.get_attribute("alt")
+            class_name = image.get_attribute("class")
+
+            assert src
+            assert alt
+            assert "thumbnail" in class_name
+
+        self.logger.info(
+            f"✓ Verified {total} product image(s)."
+        )

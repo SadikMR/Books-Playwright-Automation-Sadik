@@ -20,6 +20,12 @@ class HomeSelectors:
     # Text Selector
     LOGO_TEXT = "text=Books to Scrape"
 
+    # CSS Selector
+    IMAGES = "article.product_pod img"
+
+    # CSS Selector
+    NEXT = "li.next a"
+
 
 class CategorySelectors:
     # CSS Selector
