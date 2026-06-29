@@ -3,7 +3,7 @@ from playwright.sync_api import expect
 from pages.base_page import BasePage
 from utils.constants import BASE_URL
 from utils.selectors import HomeSelectors
-
+from utils.helper import choose_random
 
 class HomePage(BasePage):
 
@@ -72,6 +72,24 @@ class HomePage(BasePage):
         self.logger.info("Opening first book...")
         self.books().first.click()
 
-    def open_first_category(self):
-        self.logger.info("Opening first category...")
-        self.categories().first.click()
+    def open_category(self, category):
+        category_name = category.inner_text().strip()
+
+        self.logger.info(f"Opening category: {category_name}")
+
+        category.click()
+
+        return category_name
+
+    def random_categories(self, count=5):
+        self.logger.info("Selecting random categories...")
+
+        categories = self.categories().all()
+
+        selected = choose_random(categories, count)
+
+        self.logger.info(
+            f"Selected {len(selected)} random categor(ies)."
+        )
+
+        return selected
